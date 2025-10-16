@@ -19,7 +19,7 @@ https://crypto-naim.vercel.app/
 
 ![Homepage](https://github.com/user-attachments/assets/f6761e3f-8a19-4674-90fe-7493d4d8bc0d)
 
-![Single coin page](https://github.com/user-attachments/assets/031213db-d3e5-459a-b259-c07349b88fc0)
+![Single coin page](https://github.com/user-attachments/assets/1bc3564b-11e4-4751-9ba6-2b74d140223b)
 
 ## Getting Started
 
